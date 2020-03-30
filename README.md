@@ -5,6 +5,10 @@ Desenvolvendo a aplicação da Semana Omnistack com a Rocketseat, utilizando o N
 # Be The Hero - Semana Omnistack
 
 
+![Peek 30-03-2020 20-00](https://user-images.githubusercontent.com/48738337/77970356-5f851300-72c2-11ea-96d3-a5e31dc05702.gif)
+
+
+
 ## Front-end da aplicação 
 _[Tela de Logon]_
 
